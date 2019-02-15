@@ -11,3 +11,7 @@
   IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
   PARTICULAR PURPOSE.
   ----------------------------------------------------------------------
+
+The old website where this was hosted was lost but the webarchive has a copy
+which contains more information about this project
+http://web.archive.org/web/20170114170303/www.bocan.ro/deltaforthnet
